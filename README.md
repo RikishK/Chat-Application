@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Welcome to my CHAT APPLICATION
+This application was made by Rikish Kamboj using react.js and chatengine.io API
 
 ## Available Scripts
 
